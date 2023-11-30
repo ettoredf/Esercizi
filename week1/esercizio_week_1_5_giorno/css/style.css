@@ -1,0 +1,161 @@
+/* Your styles here */
+* {box-sizing: border-box;}
+body {
+    background-position: center center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    color: #393d41;
+}
+.hr1 {display: none;}
+header {
+    text-align: center;
+    background: black;
+    padding: 25px;
+}
+#banner {
+    background-image: url(/CORSO/Esercizi/Esercizi_week_1_5_Giorno/Esercizio/images/banner.jpg);
+    background-position: center center;
+}
+#article h1, #article h2, #article h3, #article h4, #article h5, #article h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #25a2c3;
+    line-height: 1.5;
+}
+#banner h1 {
+    font-size: 2.2rem;
+    text-align: center;
+    padding-top: 1em;
+}
+#banner p {
+    text-align: center;
+    padding: 1em;
+}
+#banner div {
+    text-align: center;
+    padding: 3em;
+}
+#banner input {
+    text-align: center;
+    color: white;
+    font-family:'Montserrat', sans-serif;
+    background-color: #f04c2f;
+    text-transform: uppercase;
+    padding: 1.1em 2.5em;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+}
+#section {
+    text-align: center;
+    margin: 3em 0em 1em;
+}
+#section p {
+    text-align: center;
+    padding: 1em 1em 1em;
+}
+#notebook {
+    border-radius: 50%;
+    padding-bottom: 1em;
+}
+#testimonianze {
+    text-align: center;
+    background-color: #e22d0e;
+    color: white;
+    height: 250px;
+}
+#testimonianze h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    padding: 1.5em 0em 0em;
+    font-size: 1.5em;
+}
+#testimonianze p {
+    font-style: italic;
+    font-size: 75%;
+    padding: 1em;
+}
+#testimonianze dd {
+    font-size: 60%;
+}
+#box1 {
+    text-align: center;
+    margin: 2em;
+    border: 1px solid #dee1e3;
+}
+#box1 h4 p {
+    border: 1px solid #dee1e3;
+}
+#box1 h4 {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+#box1 p {
+    font-size: 90%;
+    padding:0em 0em 2em;
+}
+#box2 {
+    text-align: center;
+    margin: 2em;
+    border: 1px solid #dee1e3;
+}
+#box2 h4 p {
+    border: 1px solid #dee1e3;
+}
+#box2 h4 {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+#box2 p {
+    font-size: 90%;
+    padding:0em 0em 2em;
+}
+#box3 {
+    text-align: center;
+    margin: 2em;
+    border: 1px solid #dee1e3;
+}
+#box3 h4 p {
+    border: 1px solid #dee1e3;
+}
+#box3 h4 {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+#box3 p {
+    font-size: 90%;
+    padding:0em 0em 2em;
+}
+#contatti {
+    text-align: center;
+    background-color: #25a2c3;    ;
+    height: 330px;
+}
+#contatti h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: 1em 0em 0.5em;
+    color: lightgray;
+}
+#contatti a {
+    font-size: 0.8em;
+    color: lightgray;
+    padding-bottom: 1em;
+}
+#contatti div {
+    line-height: normal;
+}
+#indirizzo {
+    padding-bottom: 1em;
+}
+.hr2 {
+    margin-left: 5.5em;
+    margin-right: 5.5em;
+}
+#copyright {
+    color: lightgray;
+    font-weight: 0.5em;
+    padding-top: 1em;
+}

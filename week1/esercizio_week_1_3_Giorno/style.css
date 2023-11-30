@@ -1,0 +1,85 @@
+header{
+    text-align: center;
+    margin: auto;
+    width: 1024px
+}
+#contenitore {
+    margin: auto;
+    width: 1024px;
+}
+#logo {
+    width: 17%;
+}
+#linea_titoletto {
+    border-color: #ffdb83;
+}
+.titoletto {
+    color: #38726f;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.titolo {
+    margin-top: 2em;
+}
+#foto_focaccia {
+    border-radius: 2%;
+    width: 70%;
+    text-align: center;
+    margin-left: 9em;
+}
+figcaption {
+    margin-top: 1em;
+    color: grey;
+    padding: 0;
+    text-align: center;
+}
+#presentazione_ricetta {
+    text-align: center;
+    text-align: left;
+    margin-left: 11.5em;
+}
+#feature {
+    text-align: left;
+    margin-left: 7.5em;
+    color: orange;
+}
+#altre_ricette {
+    text-align: left;
+    margin-left: 8.8em;
+    margin-top: 0;
+}
+h2 {
+    text-align: left;
+    margin-left: 7.5em;
+}
+#linea_seconda {
+    border-color: aquamarine;
+}
+h3 {
+    text-align: left;
+    margin-left: 9.8em;
+}
+ul {
+    text-align: left;
+    margin-left: 11em;
+}
+#linea_terza {
+    border-color: aquamarine;
+}
+ol{
+    text-align: left;
+    margin-left: 11em;
+}
+#inizio_preparazione {
+    text-align: left;
+}
+footer{
+    text-align: left;
+    margin-left: 27em;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
